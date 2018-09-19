@@ -2,4 +2,4 @@ React-color color-picker in Dash. Original component: https://casesandberg.githu
 
 Install using:
 
-<code>pip install dash-color-picker'</code>
+<code>pip install dash-color-picker</code>
